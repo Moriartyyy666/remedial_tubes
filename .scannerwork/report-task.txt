@@ -2,5 +2,5 @@ projectKey=remedial-tubes
 serverUrl=http://localhost:9000
 serverVersion=10.7.0.96327
 dashboardUrl=http://localhost:9000/dashboard?id=remedial-tubes
-ceTaskId=235882bb-1e2e-409f-97d3-63d4e7b256f7
-ceTaskUrl=http://localhost:9000/api/ce/task?id=235882bb-1e2e-409f-97d3-63d4e7b256f7
+ceTaskId=42adb7b9-8854-4f02-9771-e2e4612dddaf
+ceTaskUrl=http://localhost:9000/api/ce/task?id=42adb7b9-8854-4f02-9771-e2e4612dddaf
